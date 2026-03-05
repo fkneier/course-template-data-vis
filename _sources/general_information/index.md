@@ -2,7 +2,7 @@
 ![diler logo](../static/logo.png)
 
 
-# Welcome!
+# Welcome! Testing)
 
 Hello everyone and welcome to the course page for X
 
